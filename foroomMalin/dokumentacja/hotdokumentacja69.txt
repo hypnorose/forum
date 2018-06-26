@@ -1,0 +1,64 @@
+Pozdrawiam mame i tate.
+
+
+
+
+
+1. Pomys³ i myœl wiod¹ca:
+1.1 Graficzna reprezentacja projektu, zale¿noœci miêdzy elementami baz danych jak i kodu php: Marcin Malinowski
+
+2. Dzia³anie strony: 
+2.1 Logowanie z u¿yciem plików cookie w celu zapamiêtania u¿ytkownika na 30 dni; Marcin Malinowski
+2.1.1 Logowanie i rejestracja jest niemo¿liwa kiedy siê zalogujemy
+2.2 Rejestracja bez potwierdzania maila Marcin Malinowski
+2.3 Wyœwietlanie list kategorii, wnêtrz kategorii w postaci list tematów oraz wnêtrza tematów w postaci list postów Marcin Malinowski
+2.4 Komunikat po zachodniej czêœci strony, zawieraj¹cym powiadomienia o ostatnich czynnoœciach u¿ytkownika, oraz umo¿liwiaj¹ca wylogowanie Marcin Malinowski
+2.5 Dodawanie odpowiedzi oraz tematów: Marcin Malinowski
+2.6 Nawigacja
+
+3. Wsparcie techniczne
+3.1 Katering: Monika Przybylska (moja babcia)
+
+4. CSS
+
+5.Admin panel
+5.1 Usuwanie u¿ytkowników //Nie ma tego jeszcze w projekcie w szkole, wrzuce potem z domu
+ 
+XD
+
+Pomys³y:
+zrobic odswiezanie ze 30dni zapamietaj OD MOMENTU OSTATNIEGO logowania/udzielenia sie na forum no i usuwanko komków i postków, i dizajn, a tak to git //szymek  suchorab
+Polepsz wyglad strony bo jest nieprzejrzysty //Mateusz Maner Manerowski
+z jednym razem wrzucam://Marcin Malinowski
+-usuwanie i edycja swoich postów, wyœwietlanie daty ostatniej edycji
+-wygl¹d  25.09.2017
+-admin_panel:
+	-mo¿liwoœæ usuwania/dodawania/zmieniania kolejnoœci/edycji kategorii(ja)
+	-zmienianie uprawnien u¿ytkowników(ja)
+	-banowanie u¿ytkownikow, system ostrze¿eñ(ja)
+-chatbox(ja)
+-wyœwietlanie ostatnich X postów(nie ja)
+-wyœwietlanie najbardziej postujacych uzytkownikow(nie ja)
+
+Sulej - 1. brak polskich znaków, b³êdne kodowanie tabel.(ja)
+	2. pasek nawigacji i lub powrót.(ja) ZROBIONE 25.09.2017
+	3. opis tematu.(ja)
+	4. b³êdy php po powrocie z utworzonego w¹tku.(ja) ZROBIONE  25.09.2017 
+
+Maner -gdy jestes zalogowany wyswietlony jest przycisk loging(ja)
+ 
+Wasik - mo¿liwoœæ dodawania zdjêæ do postów, stworzenie tabeli do zdjêæ	(ja)
+Maner Na stronie glownej czlowiek sie gubi niewie co zrobic, wpada w panike 
+maner podaczas napisania postu i uzycie strzalki cofnij wywalaja bledy bazy danych(tez ja) ZROBIONE TE¯
+ziolek - nie dzia³aj¹ entery
+
+troche wyje¿dza wszystko za divy XDD / leœniak
+kategorie, jeden temat moze byæ w kilku kategoriach / leœniak // o co chodzi typie
+
+nie dzia³a usuwanie userów / szymek  25.09.2017
+
+23.10.2017
+Sulej	- 1. "mo¿liwoœæ logowania bêd¹c zalogowanym"
+	  2. brak nawigacji
+	  3. b³êdne znaki
+	  4. moze jakiœ alert przy próbie wejœcia na panel administracyjny b¹dz widoczne tylko dla adminów

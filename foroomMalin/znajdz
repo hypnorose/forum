@@ -1,0 +1,8 @@
+<?php
+	session_start();
+	
+	$znajdz=$_POST['znajdz'];
+	"SELECT name FROM tematy WHERE name='$znajdz'"
+	
+
+?>
